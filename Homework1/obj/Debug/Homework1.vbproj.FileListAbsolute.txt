@@ -1,0 +1,11 @@
+C:\Users\Mera\Desktop\Statistics\Homework\Homework1\Homework1\bin\Debug\Homework1.exe.config
+C:\Users\Mera\Desktop\Statistics\Homework\Homework1\Homework1\bin\Debug\Homework1.exe
+C:\Users\Mera\Desktop\Statistics\Homework\Homework1\Homework1\bin\Debug\Homework1.pdb
+C:\Users\Mera\Desktop\Statistics\Homework\Homework1\Homework1\bin\Debug\Homework1.xml
+C:\Users\Mera\Desktop\Statistics\Homework\Homework1\Homework1\obj\Debug\Homework1.vbprojAssemblyReference.cache
+C:\Users\Mera\Desktop\Statistics\Homework\Homework1\Homework1\obj\Debug\Homework1.Resources.resources
+C:\Users\Mera\Desktop\Statistics\Homework\Homework1\Homework1\obj\Debug\Homework1.vbproj.GenerateResource.cache
+C:\Users\Mera\Desktop\Statistics\Homework\Homework1\Homework1\obj\Debug\Homework1.vbproj.CoreCompileInputs.cache
+C:\Users\Mera\Desktop\Statistics\Homework\Homework1\Homework1\obj\Debug\Homework1.exe
+C:\Users\Mera\Desktop\Statistics\Homework\Homework1\Homework1\obj\Debug\Homework1.xml
+C:\Users\Mera\Desktop\Statistics\Homework\Homework1\Homework1\obj\Debug\Homework1.pdb
