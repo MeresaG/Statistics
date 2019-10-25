@@ -1,0 +1,34 @@
+c:\users\gastaldi\documents\visual studio 2012\Projects\ExampleOfMultipleObjects\ExampleOfMultipleObjects\bin\Debug\ExampleOfMultipleObjects.exe.config
+c:\users\gastaldi\documents\visual studio 2012\Projects\ExampleOfMultipleObjects\ExampleOfMultipleObjects\bin\Debug\ExampleOfMultipleObjects.exe
+c:\users\gastaldi\documents\visual studio 2012\Projects\ExampleOfMultipleObjects\ExampleOfMultipleObjects\bin\Debug\ExampleOfMultipleObjects.pdb
+c:\users\gastaldi\documents\visual studio 2012\Projects\ExampleOfMultipleObjects\ExampleOfMultipleObjects\bin\Debug\ExampleOfMultipleObjects.xml
+c:\users\gastaldi\documents\visual studio 2012\Projects\ExampleOfMultipleObjects\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.Form1.resources
+c:\users\gastaldi\documents\visual studio 2012\Projects\ExampleOfMultipleObjects\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.Resources.resources
+c:\users\gastaldi\documents\visual studio 2012\Projects\ExampleOfMultipleObjects\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.vbproj.GenerateResource.Cache
+c:\users\gastaldi\documents\visual studio 2012\Projects\ExampleOfMultipleObjects\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.exe
+c:\users\gastaldi\documents\visual studio 2012\Projects\ExampleOfMultipleObjects\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.xml
+c:\users\gastaldi\documents\visual studio 2012\Projects\ExampleOfMultipleObjects\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.pdb
+C:\Users\Mera\Desktop\Statistics\Exercise\Lezione 3\ExampleOfMultipleObjects\bin\Debug\ExampleOfMultipleObjects.exe.config
+C:\Users\Mera\Desktop\Statistics\Exercise\Lezione 3\ExampleOfMultipleObjects\bin\Debug\ExampleOfMultipleObjects.exe
+C:\Users\Mera\Desktop\Statistics\Exercise\Lezione 3\ExampleOfMultipleObjects\bin\Debug\ExampleOfMultipleObjects.pdb
+C:\Users\Mera\Desktop\Statistics\Exercise\Lezione 3\ExampleOfMultipleObjects\bin\Debug\ExampleOfMultipleObjects.xml
+C:\Users\Mera\Desktop\Statistics\Exercise\Lezione 3\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.vbprojAssemblyReference.cache
+C:\Users\Mera\Desktop\Statistics\Exercise\Lezione 3\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.Form1.resources
+C:\Users\Mera\Desktop\Statistics\Exercise\Lezione 3\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.Resources.resources
+C:\Users\Mera\Desktop\Statistics\Exercise\Lezione 3\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.vbproj.GenerateResource.cache
+C:\Users\Mera\Desktop\Statistics\Exercise\Lezione 3\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.vbproj.CoreCompileInputs.cache
+C:\Users\Mera\Desktop\Statistics\Exercise\Lezione 3\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.exe
+C:\Users\Mera\Desktop\Statistics\Exercise\Lezione 3\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.xml
+C:\Users\Mera\Desktop\Statistics\Exercise\Lezione 3\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.pdb
+C:\Users\Mera\Desktop\Statistics\Homework\Homework3 _MultipleObject\ExampleOfMultipleObjects\bin\Debug\ExampleOfMultipleObjects.exe.config
+C:\Users\Mera\Desktop\Statistics\Homework\Homework3 _MultipleObject\ExampleOfMultipleObjects\bin\Debug\ExampleOfMultipleObjects.exe
+C:\Users\Mera\Desktop\Statistics\Homework\Homework3 _MultipleObject\ExampleOfMultipleObjects\bin\Debug\ExampleOfMultipleObjects.pdb
+C:\Users\Mera\Desktop\Statistics\Homework\Homework3 _MultipleObject\ExampleOfMultipleObjects\bin\Debug\ExampleOfMultipleObjects.xml
+C:\Users\Mera\Desktop\Statistics\Homework\Homework3 _MultipleObject\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.vbprojAssemblyReference.cache
+C:\Users\Mera\Desktop\Statistics\Homework\Homework3 _MultipleObject\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.Form1.resources
+C:\Users\Mera\Desktop\Statistics\Homework\Homework3 _MultipleObject\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.Resources.resources
+C:\Users\Mera\Desktop\Statistics\Homework\Homework3 _MultipleObject\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.vbproj.GenerateResource.cache
+C:\Users\Mera\Desktop\Statistics\Homework\Homework3 _MultipleObject\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.vbproj.CoreCompileInputs.cache
+C:\Users\Mera\Desktop\Statistics\Homework\Homework3 _MultipleObject\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.exe
+C:\Users\Mera\Desktop\Statistics\Homework\Homework3 _MultipleObject\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.xml
+C:\Users\Mera\Desktop\Statistics\Homework\Homework3 _MultipleObject\ExampleOfMultipleObjects\obj\Debug\ExampleOfMultipleObjects.pdb
